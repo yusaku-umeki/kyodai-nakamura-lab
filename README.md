@@ -3,6 +3,7 @@
 ## 準備
 - Pythonの環境を整える
 - 仮想環境を生成して有効化した後に、必要なライブラリ（requirements.txt）を読み込む
+- ffmpegをインストールする（slice_movie.pyを使う場合）
 ```python
 pip install -r requirements.txt
 ```
