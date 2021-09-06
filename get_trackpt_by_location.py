@@ -4,8 +4,6 @@ import sys
 import gpxpy
 import gpxpy.gpx
 
-lat = 35.0279123
-lon = 135.783464
 
 def main(gpx_file_path,lat,lon):
     """
